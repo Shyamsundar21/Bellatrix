@@ -18,7 +18,10 @@
         </activity>
         <activity android:name=".Main2Activity" />
         <activity android:name=".UserLogin" />
-        <activity android:name=".MunicipalLogin"></activity>
+        <activity android:name=".MunicipalLogin" />
+        <activity android:name=".Userui" />
+        <activity android:name=".Puttrash" />
+        <activity android:name=".CheckPoints"></activity>
     </application>
 
 </manifest>
